@@ -1,0 +1,2 @@
+#this modifies the jump height of the dinosaur, you can change the 10
+Runner.instance_.tRex.setJumpVelocity(10)
