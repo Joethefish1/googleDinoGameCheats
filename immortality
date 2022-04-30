@@ -1,4 +1,4 @@
-#enter the following code in console and:
+#enter the following code in console and enter:
 var original = Runner.prototype.gameOver
 
 #next, enter this code:
