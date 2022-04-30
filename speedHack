@@ -1,0 +1,2 @@
+#enter this into console, you can edit the 1000
+Runner.instance_.setSpeed(1000)
