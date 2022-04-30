@@ -1,0 +1,8 @@
+#enter the following code in console and:
+var original = Runner.prototype.gameOver
+
+#next, enter this code:
+Runner.prototype.gameOver = function() {}
+
+#done correctly, you should become immortal. To deactivate the cheat, type this into console:
+Runner.prototype.gameOver = original
