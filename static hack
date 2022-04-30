@@ -1,0 +1,5 @@
+#this will freeze the game while your score increases
+Runner.instance_.playingIntro = true
+
+#to end it type in
+Runner.instance_.playingIntro = false
